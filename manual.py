@@ -1,2 +1,2 @@
 __author__ = 'Administrator'
-print
+print 'hello'
